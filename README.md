@@ -18,11 +18,15 @@ O jogo termina automaticamente quando as tentativas acabam.
 ## Feedback Interativo:
 
 Mensagens dinâmicas indicam se o palpite é maior ou menor que o número secreto.
+
 **Núcleos diferentes para os estados:**
 
 **Verde:** Certo.
+
 **Vermelho:** Derrota (tentativas esgotadas).
+
 **Laranja:** Número maior/menor.
+
 **Finalização do Jogo:**
 
 O jogo exibe o número correto quando o jogador ganha ou perde.
