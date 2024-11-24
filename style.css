@@ -1,0 +1,81 @@
+body {
+  font-family: 'Poppins', Arial, sans-serif;
+  margin: 0;
+  background: linear-gradient(45deg, #4caf50, #81c784);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.game-container {
+  background: #ffffff20;
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  padding: 30px 20px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 10px 0;
+  font-size: 1rem;
+}
+
+input[type="number"] {
+  width: calc(100% - 20px);
+  padding: 10px;
+  margin-top: 15px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  outline: none;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#guessButton {
+  background-color: #4caf50;
+  color: white;
+  margin-right: 10px;
+}
+
+#restartButton {
+  background-color: #f44336;
+  color: white;
+}
+
+#feedback {
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+#attempts {
+  margin-top: 20px;
+  font-size: 1rem;
+}
+
+@media (max-width: 400px) {
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  button, input[type="number"] {
+    font-size: 0.9rem;
+  }
+}
