@@ -67,13 +67,13 @@ Este projeto ajuda a praticar:
 
 ## Contribuições ##
 
-**Contribuições são bem-vindas! Sinta-se à vontade para:**
+Contribuições são bem-vindas! Sinta-se à vontade para:
 
-***Relatar problemas.***
+**Relatar problemas.**
 
-***Sugerir melhorias.***
+**Sugerir melhorias.**
 
-***Enviar solicitações pull.***
+**Enviar solicitações pull.**
 
 ## Apoie-me:
 
