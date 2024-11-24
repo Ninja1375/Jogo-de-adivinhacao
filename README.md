@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Jogo de Adivinhação](https://ninja1375.github.io/Jogo-de-adivinhacao/)**
+
 O **Jogo de Adivinhação** é um projeto interativo simples, desenvolvido com HTML, CSS e JavaScript, que desafia o usuário a adivinhar um número secreto entre 1 e 100. Com um design moderno e responsivo, o jogo oferece uma experiência divertida e desafiadora, onde o jogador tem 10 tentativas para descobrir o número correto.
 
 Este projeto é ideal para iniciantes em desenvolvimento web que desejam praticar manipulação de DOM, lógica de programação e estilização de páginas.
