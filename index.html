@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jogo de Adivinhação</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-container">
+    <h1>Jogo de Adivinhação</h1>
+    <p>Adivinhe um número entre <strong>1 e 100</strong>!</p>
+    <input type="number" id="guessInput" placeholder="Digite seu palpite" />
+    <button id="guessButton">Enviar</button>
+    <button id="restartButton" style="display: none;">Reiniciar</button>
+    <p id="feedback"></p>
+    <p id="attempts">Tentativas restantes: <span id="remainingAttempts">10</span></p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
